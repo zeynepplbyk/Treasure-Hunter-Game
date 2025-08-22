@@ -2,16 +2,6 @@
 
 <img src="https://github.com/zeynepplbyk/Treasure-Hunter-Game/assets/125740535/1a6509ae-ee40-4bc7-8205-1de57b32fc3c" alt="Treasure Hunter Banner" width="70%" align="center">
 
----
-
-## 👩‍💻 Takım Üyeleri
-1. **Zeynep Palabıyık**  
-   Bilgisayar Mühendisliği, Kocaeli Üniversitesi, Kocaeli, Türkiye  
-   220202016@kocaeli.edu.tr
-
-2. **Asude Çetin**  
-   Bilgisayar Mühendisliği, Kocaeli Üniversitesi, Ankara, Türkiye  
-   220202060@kocaeli.edu.tr
 
 ---
 
